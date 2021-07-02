@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    font-family: Helvetica;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 10px;
+}
+#faq {
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-image: -webkit-linear-gradient(83deg,rgba(227,85,87,0.50) 0%,rgba(253,249,252,1.00) 100%), url(../images/pexels-photo-4041287.jpeg);
+    background-image: -moz-linear-gradient(83deg,rgba(227,85,87,0.50) 0%,rgba(253,249,252,1.00) 100%), url(../images/pexels-photo-4041287.jpeg);
+    background-image: -o-linear-gradient(83deg,rgba(227,85,87,0.50) 0%,rgba(253,249,252,1.00) 100%), url(../images/pexels-photo-4041287.jpeg);
+    background-image: linear-gradient(7deg,rgba(227,85,87,0.50) 0%,rgba(253,249,252,1.00) 100%), url(../images/pexels-photo-4041287.jpeg);
+    color: #69090C;
+    text-align: center;
+    font-size: large;
+    font-style: normal;
+    font-variant: normal;
+    font-family: Helvetica;
+}
+#text1 {
+    background-color: #E9DCE9;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-image: url(../images/pexels-photo-7130474.jpeg);
+}
+#text1 p img {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#text2 {
+    background-color: #D4BDD5;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    background-image: url(../images/textura3.jpeg);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+}
+#text2 p img {
+    padding-right: 10px;
+    float: right;
+    padding-bottom: 10px;
+    bottom: 10px;
+}
+#text3 {
+    background-color: #FFD6FA;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-image: url(../images/pexels-photo-4197558.jpeg);
+    font-size: large;
+}
+#text3 p img {
+    padding-right: 10px;
+    float: left;
+}
+#text4 {
+    background-color: #CEA8D0;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-image: url(../images/texttt1.jpeg);
+}
+#text4 p img {
+    padding-right: 10px;
+    float: right;
+}
+#items {
+    font-family: Helvetica;
+    font-size: 36px;
+    background-color: #CEA8D0;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-image: -webkit-linear-gradient(278deg,rgba(255,255,255,0.12) 0%,rgba(255,191,240,1.00) 100%), url(../images/pexels-photo-5898217.jpeg);
+    background-image: -moz-linear-gradient(278deg,rgba(255,255,255,0.12) 0%,rgba(255,191,240,1.00) 100%), url(../images/pexels-photo-5898217.jpeg);
+    background-image: -o-linear-gradient(278deg,rgba(255,255,255,0.12) 0%,rgba(255,191,240,1.00) 100%), url(../images/pexels-photo-5898217.jpeg);
+    background-image: linear-gradient(172deg,rgba(255,255,255,0.12) 0%,rgba(255,191,240,1.00) 100%), url(../images/pexels-photo-5898217.jpeg);
+}
+#imagencentral {
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    background-image: url(../images/pexels-photo-5898212.jpeg);
+}
+#imagencentral p img {
+
+
+
+}
